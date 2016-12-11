@@ -1,0 +1,22 @@
+{
+  "name": "suggest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "enb server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bem-core": "^4.0.0",
+    "bower": "^1.8.0",
+    "enb": "^1.5.1",
+    "enb-bem-techs": "^2.2.2",
+    "enb-bemxjst": "^8.5.0",
+    "enb-js": "^1.1.0",
+    "enb-postcss": "^1.2.0",
+    "eslint": "^3.12.0"
+  }
+}
